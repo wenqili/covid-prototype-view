@@ -1,0 +1,687 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980902,
+          40.7521961
+        ]
+      },
+      "properties": {
+        "address": "60 E 42nd St, New York, NY 10165",
+        "building": "One Grand Central Place",
+        "status": "confirmed, public info",
+        "editorial": "",
+        "source": "https://nypost.com/2020/03/08/coronavirus-in-ny-westchester-lawyers-family-breaks-silence-on-his/",
+        "icon": "monument"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9853352,
+          40.7604859
+        ]
+      },
+      "properties": {
+        "address": "745 7th Avenue, New York, NY 10019",
+        "building": "Barclays (2/F Trading)",
+        "status": "confirmed, public info",
+        "editorial": "",
+        "source": "https://www.reuters.com/article/us-health-coronavirus-barclays/barclays-reports-coronavirus-case-on-new-york-trading-floor-idUSKBN20X2PV",
+        "icon": "monument"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9853352,
+          40.7604859
+        ]
+      },
+      "properties": {
+        "address": "40 East 52nd Street, New York, NY 10022",
+        "building": "BlackRock (20/F)",
+        "status": "confirmed, public info",
+        "editorial": "",
+        "source": "https://nypost.com/2020/03/10/blackrock-employee-in-new-york-has-coronavirus/",
+        "icon": "monument"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976233,
+          40.7587309
+        ]
+      },
+      "properties": {
+        "address": "125 Park Ave. New York, NY 10017",
+        "building": "12/F",
+        "status": "confirmed, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9792517,
+          40.7515969
+        ]
+      },
+      "properties": {
+        "address": "110 East 42nd Street, New York, NY 10017",
+        "building": "Firm TBA",
+        "status": "confirmed, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0040269,
+          40.755219
+        ]
+      },
+      "properties": {
+        "address": "55 Hudson Yards, New York, NY 10001",
+        "building": "Point72 (14/F Research)",
+        "status": "confirmed, public info",
+        "editorial": "",
+        "source": "https://www.nydailynews.com/coronavirus/ny-coronavirus-nyc-hedge-fund-employee-positive-coronavirus-20200310-67mmldjxobhwthgx5elmgptb34-story.html",
+        "icon": "monument"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0175917,
+          40.7134543
+        ]
+      },
+      "properties": {
+        "address": "250 Vesey St #15, New York, NY 10281",
+        "building": "Brookfield Asset Management",
+        "status": "confirmed, public info",
+        "editorial": "",
+        "source": "https://www.bloomberg.com/news/articles/2020-03-09/brookfield-employee-in-new-york-tests-positive-for-coronavirus",
+        "icon": "monument"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144788,
+          40.7102889
+        ]
+      },
+      "properties": {
+        "address": "150 Greenwich St, New York, NY 10007",
+        "building": "4 World Trade Center",
+        "status": "confirmed, public info",
+        "editorial": "Rick Cotton, Executive Director of The Port Authority of New York and New Jersey",
+        "source": "https://www.nytimes.com/2020/03/09/nyregion/port-authority-rick-cotton-coronavirus.html",
+        "icon": "monument"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.993341,
+          40.7428027
+        ]
+      },
+      "properties": {
+        "address": "30 W 24th St, New York, NY 10010",
+        "building": "Firm TBA",
+        "status": "confirmed, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0168758,
+          40.7138829
+        ]
+      },
+      "properties": {
+        "address": "200 Vesey St, New York, NY 10080",
+        "building": "RBC",
+        "status": "confirmed, insider tip",
+        "editorial": "Floor 10-11 are related. This person has not been in office since 03/06.",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979154,
+          40.7572312
+        ]
+      },
+      "properties": {
+        "address": "12 E 49th St, New York, NY 10017",
+        "building": "Meetup  (WeWork 3/F)",
+        "status": "confirmed, public info",
+        "editorial": "works at WeWork 12 East 49th Street",
+        "source": "https://therealdeal.com/2020/03/10/wework-closes-nyc-office-after-employee-tests-positive-for-coronavirus/",
+        "icon": "monument"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9752577,
+          40.76211
+        ]
+      },
+      "properties": {
+        "address": "590 Madison Ave, New York, NY 10022",
+        "building": "Firm TBA",
+        "status": "confirmed, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0117691,
+          40.7107732
+        ]
+      },
+      "properties": {
+        "address": "195 Broadway, New York, NY 10007",
+        "building": "Firm TBA",
+        "status": "confirmed, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9845079,
+          40.7579754
+        ]
+      },
+      "properties": {
+        "address": "1185 6th Avenue, New York, NY 10036",
+        "building": "Firm TBA",
+        "status": "confirmed, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0173386,
+          40.7579701
+        ]
+      },
+      "properties": {
+        "address": "10 Hudson Yards, New York, NY 10001",
+        "building": "Firm TBA",
+        "status": "confirmed, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9766975,
+          40.7545475
+        ]
+      },
+      "properties": {
+        "address": "245 Park Ave, New York, NY 10029",
+        "building": "Firm TBA （10/F）",
+        "status": "confirmed, public info",
+        "editorial": "Subject in contact with confirmed case*",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0017748,
+          40.7305635
+        ]
+      },
+      "properties": {
+        "address": "40 Washington Sq, New York, NY 10012",
+        "building": "NYU Law School",
+        "status": "confirmed, insider tip",
+        "editorial": "One professor got confirmed",
+        "source": "https://nyulocal.com/an-nyu-law-faculty-member-has-tested-positive-for-coronavirus-8d1aa1fdd6be",
+        "icon": "monument"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9882863,
+          40.7429387
+        ]
+      },
+      "properties": {
+        "address": "51 Madison Ave New York, NY 10010",
+        "building": "Quinn Emanuel",
+        "status": "confirmed, public info",
+        "editorial": "Partner is confirmed",
+        "source": "https://www.abajournal.com/news/article/quinn-emanuel-shuts-down-new-york-office-after-partner-tests-positive-for-coronavirus",
+        "icon": "monument"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.967652,
+          40.6022858
+        ]
+      },
+      "properties": {
+        "address": "1901 Ocean Pkwy, Brooklyn, NY 11223",
+        "building": "",
+        "status": "confirmed, public info",
+        "editorial": "",
+        "source": "https://www.jpost.com/Diaspora/Jewish-New-Yorker-in-serious-condition-after-Italy-trip-620151",
+        "icon": "monument"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9919021,
+          40.7711041
+        ]
+      },
+      "properties": {
+        "address": "524 W 59th St, New York, NY 10019",
+        "building": "John Jay College",
+        "status": "confirmed, public info",
+        "editorial": "",
+        "source": "https://nypost.com/2020/03/11/nycs-john-jay-college-closes-after-student-tests-positive-for-coronavirus/",
+        "icon": "monument"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9753282,
+          40.736293
+        ]
+      },
+      "properties": {
+        "address": "24-50 FDR Dr, New York, NY 10010",
+        "building": "Firm TBA",
+        "status": "confirmed, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9736868,
+          40.7573686
+        ]
+      },
+      "properties": {
+        "address": "575 Lexington Ave, New York, NY 10022",
+        "building": "TIAA",
+        "status": "suspected, public info",
+        "editorial": "The wework building has been closed for deep cleaning",
+        "source": "https://nypost.com/2020/03/04/coronavirus-in-ny-wework-member-self-quarantined-for-possible-exposure/",
+        "icon": "monument"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9736868,
+          40.7573686
+        ]
+      },
+      "properties": {
+        "address": "520 Madison Ave, New York, NY 10022",
+        "building": "Firm TBA",
+        "status": "suspected, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0030051,
+          40.7540741
+        ]
+      },
+      "properties": {
+        "address": "30 Hudson Yards, , New York, NY 10001",
+        "building": "Firm TBA",
+        "status": "suspected, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9920407,
+          40.7693105
+        ]
+      },
+      "properties": {
+        "address": "524 West 57th Street, New York, NY 10019",
+        "building": "CBS",
+        "status": "confirmed, public info",
+        "editorial": "2 employees and has been worked at 555 West 57th Street for 60 mins",
+        "source": "https://variety.com/2020/tv/news/cbs-news-coronavirus-susan-zirinsky-1203530906/",
+        "icon": "monument"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0359649,
+          40.7131027
+        ]
+      },
+      "properties": {
+        "address": "30 Hudson Street, Jersey City, NJ 07302",
+        "building": "Firm TBA",
+        "status": "suspected, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9890874,
+          40.7584168
+        ]
+      },
+      "properties": {
+        "address": "222 W 45th St, New York, NY 10036",
+        "building": "The Booth Theater",
+        "status": "confirmed, public info",
+        "editorial": "March 3-7: Broadway Show \"Who's afraid of Virginia Woolf?\" Usher Tests Positive ",
+        "source": "https://www.nytimes.com/2020/03/11/theater/broadway-show-usher-coronavirus.html?0p19G=3248",
+        "icon": "monument"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9890874,
+          40.7584168
+        ]
+      },
+      "properties": {
+        "address": "256 W 47th St, New York, NY 10036",
+        "building": "Brooks Atkinson Theatre",
+        "status": "confirmed, public info",
+        "editorial": "Feb.25 & March 1: Broadway Show \"Six\" Usher Tests Positive. ",
+        "source": "https://www.nytimes.com/2020/03/11/theater/broadway-show-usher-coronavirus.html?0p19G=3248",
+        "icon": "monument"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9228315,
+          40.8137231
+        ]
+      },
+      "properties": {
+        "address": "360 E 145th St, The Bronx, NY 10454",
+        "building": "The Laboratory School of Finance & Technology",
+        "status": "confirmed, public info",
+        "editorial": "due to a student’s self-confirmed positive case of COVID-19",
+        "source": "https://nypost.com/2020/03/12/nycs-first-public-school-student-has-coronavirus-two-bronx-schools-shut-down/",
+        "icon": "monument"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9228315,
+          40.8137231
+        ]
+      },
+      "properties": {
+        "address": "360 E 145th St, The Bronx, NY 10454",
+        "building": "South Bronx Preparatory",
+        "status": "confirmed, public info",
+        "editorial": "due to a student’s self-confirmed positive case of COVID-19",
+        "source": "https://nypost.com/2020/03/12/nycs-first-public-school-student-has-coronavirus-two-bronx-schools-shut-down/",
+        "icon": "monument"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0439636,
+          40.7188346
+        ]
+      },
+      "properties": {
+        "address": "1 Pershing Plaza, Jersey City, NJ 07302",
+        "building": "BNY Mellon | Pershing (5/F)",
+        "status": "confirmed, insider tip",
+        "editorial": "employee tested positive",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8485754,
+          40.85472
+        ]
+      },
+      "properties": {
+        "address": "1400 Pelham Pkwy S, The Bronx, NY 10461",
+        "building": "NYC Health + Hospitals/Jacobi",
+        "status": "confirmed, public info",
+        "editorial": "A healthcare worker at Jacobi Medical Center recently tested positive for the coronavirus",
+        "source": "https://nypost.com/2020/03/11/healthcare-worker-at-jacobi-medical-center-tests-positive-for-coronavirus/",
+        "icon": "monument"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9790936,
+          40.7605248
+        ]
+      },
+      "properties": {
+        "address": "666 5th Avenue, New York, NY",
+        "building": "Firm TBA （21/F)",
+        "status": "confirmed, insider tip",
+        "editorial": "employee tested positive",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9790936,
+          40.7605248
+        ]
+      },
+      "properties": {
+        "address": "475 5th Avenue, New York, NY",
+        "building": "Firm TBA",
+        "status": "confirmed, insider tip",
+        "editorial": "",
+        "source": "Anonymous source, No public information",
+        "icon": "monument"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0162713,
+          40.7033369
+        ]
+      },
+      "properties": {
+        "address": "24 Whitehall Street, New York NY",
+        "building": "Meridian Capital Group",
+        "status": "confirmed, public info",
+        "editorial": "",
+        "source": "https://therealdeal.com/2020/03/11/meridian-capital-employee-tests-positive-for-coronavirus/",
+        "icon": "monument"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9786821,
+          40.7887896
+        ]
+      },
+      "properties": {
+        "address": "2373 Broadway",
+        "building": "TBA",
+        "status": "confirmed, insider tip",
+        "icon": "monument"
+      },
+      "id": 36
+    }
+  ]
+}
